@@ -202,7 +202,9 @@ html{
 
 /* FOOTER */
 footer{
-   margin: 0 auto;
+   position: fixed;
+   width: 100%;
+   bottom: 0;
    text-align: center;
    height: 470px;
    background-color: var(--DarkBlue);
